@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cobra">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#263044"/><stop offset="1" stop-color="#151b28"/></linearGradient>
+    <linearGradient id="m" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8ccaff"/><stop offset="1" stop-color="#2f86f0"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="5" fill="url(#t)"/>
+  <rect x=".5" y=".5" width="63" height="63" rx="4.500" fill="none" stroke="#8fb8ff" stroke-opacity=".16"/>
+  <g transform="translate(6.500 3.500) scale(.80)">
+    <path fill="url(#m)" d="M19 3C9 12 6 27 14 40 20 49 27 52 28.500 59H35.500C37 52 44 49 50 40 58 27 55 12 45 3Q32 12 19 3Z"/>
+    <g fill="none" stroke="#1a2130" stroke-width="1.900" stroke-linejoin="miter" stroke-linecap="butt">
+      <path d="M20 31 12.500 28.500M22.500 38 16.500 36M25.500 45 21 43.500M44 31 51.500 28.500M41.500 38 47.500 36M38.500 45 43 43.500"/>
+    </g>
+    <path fill="url(#m)" stroke="#1a2130" stroke-width="2.300" stroke-linejoin="miter" d="M32 38 21.500 26.500 24 13H40L42.500 26.500Z"/>
+    <path d="M25 22 30.500 24.500M39 22 33.500 24.500" stroke="#ff453a" stroke-width="2.500" stroke-linecap="butt"/>
+    <path d="M32 38v4M32 42 29.800 45M32 42 34.200 45" fill="none" stroke="#ff453a" stroke-width="1.500" stroke-linecap="butt"/>
+  </g>
+  <text x="32" y="60.500" text-anchor="middle" font-family="'New York', ui-serif, Georgia, serif" font-size="7.600" font-weight="600" letter-spacing=".6" fill="#cfe4ff">Cobra</text>
+</svg>
